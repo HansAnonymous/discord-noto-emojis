@@ -1,0 +1,17 @@
+//META{"name":"Discord Noto Emoji","description":"Replaces default Discord emoji with Noto (blobs).","author":"intrnl and other contributors","version":"1.0.0"}*//{}
+
+/*
+  Discord Noto Emoji,
+  made by intrnl and other contributors.
+  Licensed under MIT license.
+  https://github.com/intrnl/discord-noto-emojis/blob/master/LICENSE
+*/
+
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_activities.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_flags.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_food.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_nature.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_object.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_people.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_symbols.css);
+@import url(https://rawgit.com/intrnl/discord-noto-emojis/master/resources/emoji_travel.css);
